@@ -1,5 +1,5 @@
 import React from "react";
-import sagar from "../sagar.png"
+import sagar from "../sagar1.jpeg"
 
 export default function About() {
   return (
