@@ -13,11 +13,11 @@ export default function Projects() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Projects I have Made
           </h1>
-          <p className="lg:w-2/3 mx-auto text-white leading-relaxed text-base">
+          {/* <p className="lg:w-2/3 mx-auto text-white leading-relaxed text-base">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
             facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
             fuga dolore.
-          </p>
+          </p> */}
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
